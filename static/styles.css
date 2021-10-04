@@ -1,0 +1,58 @@
+/** @format */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+    font-family: 'Karma', serif;
+}
+
+hr {
+  color: #d7fff1;
+}
+h1 {
+  color: #ffd4d4;
+}
+.hero {
+  color: #f5e7ea;
+  text-align: center;
+  margin-top: 20px;
+}
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+p {
+  background-color: #85ba99;
+  font-size: 20px;
+  border-radius: 30px;
+  color: #0a0903;
+  text-align: center;
+  padding: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 20px;
+}
+
+.facts {
+  background-color: #a3afa6;
+  font-size: 16px;
+  border-radius: 30px;
+  color: #0a0903;
+  padding: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 20px;
+}
+
+.profile {
+  height: auto;
+  width: 250px;
+  max-width: 100%;
+  border-radius: 30px;
+}
+
+figcaption {
+    text-align: center;
+    font-weight: bold;
+}
